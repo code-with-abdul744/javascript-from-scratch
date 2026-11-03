@@ -11,6 +11,7 @@ A beginner-friendly repository where I learn JavaScript step by step, starting f
 - ✅ 0. Introduction to JavaScript
 - ✅ 1. Variables and Declarations
 - ✅ 2. Data Types
+- ✅ 3. Operators
 
 ## Goal
 Build a strong JavaScript foundation for web development and land an SDE role.
