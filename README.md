@@ -14,6 +14,7 @@ A beginner-friendly repository where I learn JavaScript step by step, starting f
 - ✅ 3. Operators
 - ✅ 4. Control Flow (Conditionals)
 - ✅ 5. Loops
+- ✅ 6. Functions
 
 ## Goal
 Build a strong JavaScript foundation for web development and land an SDE role.
