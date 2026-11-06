@@ -17,6 +17,7 @@ A beginner-friendly repository where I learn JavaScript step by step, starting f
 - ✅ 6. Functions
 - ✅ 7. Arrays
 - ✅ 8. Objects
+- ✅ 9. The DOM
 
 ## Goal
 Build a strong JavaScript foundation for web development and land an SDE role.
